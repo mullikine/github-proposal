@@ -32,6 +32,12 @@
 - Discovered language chimeras, and built tools to utilise them.
 - The list goes on and on for the discoveries I have made...
 - On <2021-12-17 Fri> I had an interview for a role with GitHub for as an IDE researcher.
+*** 2022 (What I will do)
+- Continue expanding on Imaginary Programming
+  - Haskell version of 𝑖lambda, which is already in the works.
+    - This
+- Continue expanding on LookingGlass, my imaginary web browser
+  - Incorporate image generation
 
 ** My perspective of the interview
 - I am concerned that the Copilot project will fail to innovate enough within the next 6 months.
