@@ -67,8 +67,12 @@ possible, but this is not innovation.
 
 I am concerned that the Copilot project will
 fail to innovate enough within the next 6
-months. I'm about 2 years ahead in terms of
-design and ambition.
+months and will not be able to compete with
+repl.it and TabNine. I'm about 2 years ahead
+in terms of design and ambition and I can see
+a dead-end for Copilot if the strategy is
+merely to build a code-completion engine and
+prompt-based code-refactoring tools.
 
 I'm concerned that placing me in a the role
 which restricts my ability to make discoveries
