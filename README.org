@@ -13,14 +13,21 @@
 ** Timeline
 *** 2016
 - Built a logs and code search engine before the ElasticSearch/LogStash/Kibana stack existed
-- Used it it practice to correlate error messages with git commits which broke HIL tests
+- Used it in practice for a fortune 500 company to correlate error messages with git commits which broke HIL tests
 *** 2018
 - Built a GitHub code search engine before =grep.app= was a thing, with a web GUI and an emacs IDE
 *** 2021
 - Built an IDE that utilises language models (Pen.el) 7 months before Copilot was a thing.
 - Invented a programming paradigm called imaginary programming, and presented at EmacsConf.
 - And I had a working prototype after 2 weeks.
+- Invented/discovered many more things such as the Imaginary Web, and created a web browser that imagines the web
+- Discovered language chimeras, and built tools to utilise them
+- The list goes on and on for the discoveries I have made...
 - On <2021-12-17 Fri> I had an interview for a role with GitHub for as an IDE researcher.
+
+** The interview
+
+
 
 ** Strategy
 - 6 months from now, software engineering
