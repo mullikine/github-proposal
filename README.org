@@ -10,7 +10,10 @@
 #+KEYWORDS: github
 
 * Proposal to GitHub for a strategy of innovation for Copilot
-** 
+** Timeline
+*** 2016 - Built a logs and code search engine before the ElasticSearch/LogStash/Kibana stack existed
+*** 2018 - Built a GitHub code search engine before =grep.app= was a thing
+*** 2021 - Built an IDE for language models before Copilot was a thing
 On <2021-12-17 Fri> I had an interview for a role with GitHub for as an IDE researcher.
 
 ** Strategy
