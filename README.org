@@ -44,6 +44,8 @@
 - Continue expanding on LookingGlass, my imaginary web browser
   - Incorporate image and video generation
 - Turn Copilot into a project that is innovative and ahead of the competition
+- Develop peer-to-peer LM generation sharing (not prompt sharing)
+- Develop peer-to-peer prompt sharing
 
 ** My perspective of the interview
 I am concerned that the Copilot project will
