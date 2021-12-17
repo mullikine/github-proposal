@@ -11,10 +11,16 @@
 
 * Proposal to GitHub for a strategy of innovation for Copilot
 ** Timeline
-*** 2016 - Built a logs and code search engine before the ElasticSearch/LogStash/Kibana stack existed
-*** 2018 - Built a GitHub code search engine before =grep.app= was a thing
-*** 2021 - Built an IDE for language models before Copilot was a thing
-On <2021-12-17 Fri> I had an interview for a role with GitHub for as an IDE researcher.
+*** 2016
+- Built a logs and code search engine before the ElasticSearch/LogStash/Kibana stack existed
+- Used it it practice to correlate error messages with git commits which broke HIL tests
+*** 2018
+- Built a GitHub code search engine before =grep.app= was a thing, with a web GUI and an emacs IDE
+*** 2021
+- Built an IDE that utilises language models (Pen.el) 7 months before Copilot was a thing.
+- Invented a programming paradigm called imaginary programming, and presented at EmacsConf.
+- And I had a working prototype after 2 weeks.
+- On <2021-12-17 Fri> I had an interview for a role with GitHub for as an IDE researcher.
 
 ** Strategy
 - 6 months from now, software engineering
