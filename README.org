@@ -11,7 +11,7 @@
 
 * Proposal to GitHub for a strategy of innovation for Copilot
 ** 
-I recently interviewed for a role with GitHub for as an IDE researcher.
+On <2021-12-17 Fri> I had an interview for a role with GitHub for as an IDE researcher.
 
 ** Strategy
 - 6 months from now, software engineering
