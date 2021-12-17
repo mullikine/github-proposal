@@ -17,9 +17,11 @@ an IDE researcher for Copilot and I'm
 interested in maximising the potential of
 Copilot, and its chance of survival, however
 I'm going to require a bit of extra
-flexibility in the role or at least the
-acknowledgement of my concerns in the interest
-of GitHub, not myself.
+flexibility in the role to match my
+personality or at least the acknowledgement of
+my concerns in the interest of GitHub and the
+project, not out of self-interest; It's just
+reality.
 
 * Proposal to GitHub for a strategy of innovation for Copilot
 ** My timeline
