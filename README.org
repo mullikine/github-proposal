@@ -9,8 +9,6 @@
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: github
 
-
-
 * Proposal to GitHub for a strategy of innovation for Copilot
 ** Timeline
 *** 2016
