@@ -78,8 +78,8 @@ I'm concerned that placing me in a the role
 which restricts my ability to make discoveries
 and bring them back to Copilot will sabotage
 Copilot if it were my job to be a researcher
-there, where I should be genuinely
-researching, as per the job description.
+there, where I should be genuinely researching
+and designing, as per the job description.
 
 I am very interested in helping Copilot to
 succeed, and building a tool with GitHub which
