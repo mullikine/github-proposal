@@ -22,7 +22,7 @@
   an academic project to impacting a huge number
   (2000+) of GitHub organisations with automated bug-fixing.
 *** 2020
-- Developed a deployment pipeline and tooling for self-driving cars. Utilised emacs.
+- Developed a deployment pipeline for the guidance software of self-driving cars. Utilised emacs.
 *** 2021
 - Built an IDE that utilises language models (Pen.el) 7 months before Copilot was a thing.
 - Invented a programming paradigm called imaginary programming, and presented at EmacsConf.
