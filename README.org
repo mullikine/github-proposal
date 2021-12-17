@@ -39,7 +39,7 @@
   - Incorporate that into Pen.el and Copilot
 - Allow Copilot to use alternative language models, including Microsoft's large language models.
   - This will fight off competition from TabNine.
-- 
+- Work on the Copilot LSP server and investigate combining it with web browsers, to create a Copilot for the web.
 - Combine Copilot with Pen.el
 - Continue expanding on LookingGlass, my imaginary web browser
   - Incorporate image and video generation
