@@ -9,12 +9,21 @@
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: github
 
+Hi Michael,
+
+Thank you for setting up my interview with
+Ganesh. I am very interested in this role as
+an IDE researcher for Copilot, however I'm
+going to require a bit of extra flexibility in
+the role, if you'd like my expertise. This is
+so I can contribute positively to the project.
+
 * Proposal to GitHub for a strategy of innovation for Copilot
 ** My timeline
 *** 2016
 - Built a logs and code search engine (in 2 weeks) before the ElasticSearch/LogStash/Kibana stack existed, while working as a CICD engineer.
   - I take initiative and just build what needs to be built, before people understand why it's important.
-- Used it in practice for a fortune 500 company to correlate error and other log messages with git commits which broke HIL tests.
+- Used it in practice for a fortune 500 (C company to correlate error and other log messages with git commits which broke HIL tests.
   - It is also a point-and-click search engine, that makes learning codebases easy.
 *** 2018
 - Returned to Uni to study deep learning and information retrieval. I built a GitHub code search engine before =grep.app= was a thing, with a web GUI and an emacs IDE.
