@@ -9,20 +9,23 @@
 #+AUTHOR: Shane Mulligan
 #+KEYWORDS: github
 
+
+
 * Proposal to GitHub for a strategy of innovation for Copilot
 ** Timeline
 *** 2016
-- Built a logs and code search engine before the ElasticSearch/LogStash/Kibana stack existed
-- Used it in practice for a fortune 500 company to correlate error messages with git commits which broke HIL tests
+- Built a logs and code search engine (in 2 weeks) before the ElasticSearch/LogStash/Kibana stack existed, while working as a CICD engineer.
+  - I take initiative and just build what needs to be built, before people understand why it's important.
+- Used it in practice for a fortune 500 company to correlate error and other log messages with git commits which broke HIL tests.
+  - It is also a point-and-click search engine, that makes learning codebases easy.
 *** 2018
-- Built a GitHub code search engine before =grep.app= was a thing, with a web GUI and an emacs IDE
+- Returned to Uni to study deep learning and information retrieval. I built a GitHub code search engine before =grep.app= was a thing, with a web GUI and an emacs IDE.
 *** 2019
-- Created a pipeline for CodeLingo in record
-  time (1 month), which took their platform from
+- Created a pipeline for CodeLingo in only 1 month, which took their platform from
   an academic project to impacting a huge number
   (2000+) of GitHub organisations with automated bug-fixing.
 *** 2020
-- Developed a deployment pipeline for the firmware of self-driving cars for FMG. Utilised emacs.
+- Developed a deployment pipeline for the firmware of self-driving cars for FMG.
 *** 2021
 - Built an IDE that utilises language models (Pen.el) 7 months before Copilot was a thing. And I had a working prototype of Pen.el after only 2 weeks.
 - Built a language server that utilises language models. This is still the only one in existence, as far as I am aware.
