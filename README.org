@@ -38,6 +38,7 @@
     - This
 - Continue expanding on LookingGlass, my imaginary web browser
   - Incorporate image and video generation
+- Turn Copilot into a project that is innovative and ahead of the competition
 
 ** My perspective of the interview
 - I am concerned that the Copilot project will fail to innovate enough within the next 6 months.
