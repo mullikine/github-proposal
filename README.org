@@ -52,7 +52,7 @@ I am concerned that the Codex model is not
 being correctly utilised by Copilot, because
 the product is trying to derive correct code
 from the LMs, which is an ambitious and
-laudable goal by speed and accuracy shouldn't
+laudable goal but speed and accuracy shouldn't
 be of greater importance than designing a
 model of human-computer interaction which
 aligns more closely to the natural
