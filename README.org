@@ -46,6 +46,3 @@ I am concerned that the Copilot project will
 fail to innovate enough within the next 6
 months. I'm at least 1 year ahead in terms of
 design.
-
-** Strategy
-- 6 months from now, software engineering
