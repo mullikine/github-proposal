@@ -37,7 +37,7 @@
   - Haskell version of 𝑖lambda, which is already in the works.
     - This
 - Continue expanding on LookingGlass, my imaginary web browser
-  - Incorporate image generation
+  - Incorporate image and video generation
 
 ** My perspective of the interview
 - I am concerned that the Copilot project will fail to innovate enough within the next 6 months.
