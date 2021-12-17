@@ -27,7 +27,7 @@
 *** 2020
 - Developed a deployment pipeline for the firmware of self-driving cars for FMG.
 *** 2021
-- Built an IDE that utilises language models (Pen.el) 7 months before Copilot was a thing. And I had a working prototype of Pen.el after only 2 weeks.
+- I built an IDE that utilises language models (Pen.el) 7 months before Copilot was a thing. And I had a working prototype of Pen.el after only 2 weeks.
 - Built a language server that utilises language models. This is still the only one in existence, as far as I am aware.
 - Invented a programming paradigm called imaginary programming, and presented at EmacsConf.
 - Invented/discovered many more things such as the Imaginary Web, and created a web browser that imagines the web
@@ -35,8 +35,10 @@
 - The list goes on and on for the discoveries I have made...
 - On <2021-12-17 Fri> I had an interview for a role with GitHub for as an IDE researcher.
 
-** My perspective
-I'm at least 1 year ahead in terms of design
+** My perspective of the interview
+- I am concerned that the Copilot project will fail to innovate enough within the next 6 months.
+  - 
+I'm at least 1 year ahead in terms of design.
 
 ** The interview
 
