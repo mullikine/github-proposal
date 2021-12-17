@@ -10,7 +10,7 @@
 #+KEYWORDS: github
 
 * Proposal to GitHub for a strategy of innovation for Copilot
-** Timeline
+** My timeline
 *** 2016
 - Built a logs and code search engine (in 2 weeks) before the ElasticSearch/LogStash/Kibana stack existed, while working as a CICD engineer.
   - I take initiative and just build what needs to be built, before people understand why it's important.
