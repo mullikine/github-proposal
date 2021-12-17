@@ -50,5 +50,5 @@
 ** My perspective of the interview
 I am concerned that the Copilot project will
 fail to innovate enough within the next 6
-months. I'm at least 1 year ahead in terms of
+months. I'm about 2 years ahead in terms of
 design.
