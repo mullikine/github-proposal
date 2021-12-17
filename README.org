@@ -15,13 +15,31 @@ Thank you for setting up my interview with
 Ganesh. I am very interested in this role as
 an IDE researcher for Copilot and I'm
 interested in maximising the potential of
-Copilot, and its chance of survival, however
-I'm going to require a bit of extra
-flexibility in the role to match my
-personality or at least the acknowledgement of
-my concerns in the interest of GitHub and the
-project, not out of self-interest; It's just
-reality.
+Copilot, and maximising its chance of
+survival. I understand there are certain
+'realities' regarding the finalisation of
+promised features for customers. However,
+there are greater risks associated with
+forfeiting innovation to satisfy customers
+that would be catastrophic. I've seen it
+happen before. I'm going to require a bit of extra
+flexibility in the role to match my style, and
+I would rebuke Charles Simonyi's project-
+management technique of metaprogramming when
+it comes to building a tool like Copilot,
+especially given that I'm at least 1 hear
+ahead in terms of product design, and placing
+me into a position where I'm allowed to make
+no design decisions even in the short term
+would be a no-go for mer. It wouldn't be wise
+on your part to take me away from prompt
+research, given where I'm at with it. I think
+it's a good idea to acknowledge my concerns in
+the interest of the project, not out of self-
+interest; It's just reality, and I'm
+interested in making results, as evidenced in
+the way I have spent the last year, and in
+prior jobs. I make things happen.
 
 * Proposal to GitHub for a strategy of innovation for Copilot
 ** My timeline
