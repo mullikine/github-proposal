@@ -63,7 +63,7 @@ I have already demonstrated in Pen.el.
 That being said, the goal of creating a
 brilliant code-completion tool for VSCode
 needn't be scrapped -- it's certainly
-possible, but this is not innovation
+possible, but this is not innovation.
 
 I am concerned that the Copilot project will
 fail to innovate enough within the next 6
