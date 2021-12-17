@@ -32,6 +32,9 @@
 - The list goes on and on for the discoveries I have made...
 - On <2021-12-17 Fri> I had an interview for a role with GitHub for as an IDE researcher.
 
+** My perspective
+I'm at least 1 year ahead in terms of design
+
 ** The interview
 
 
