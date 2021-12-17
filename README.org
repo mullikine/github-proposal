@@ -84,8 +84,12 @@ and designing, as per the job description.
 I am very interested in helping Copilot to
 succeed, and building a tool with GitHub which
 will benefit the maximum number of people, due
-to its urgency.
+to its urgency, and I'm interested in bringing
+transparency to the programming paradigm of
+prompt-engineering.
 
-Thank you for your consideration,
+Thank you for the interviews thus far and I'd
+like you to consider hiring me for a research
+position, not just by name but in practice,
 
 Shane Mulligan
