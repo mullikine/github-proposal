@@ -36,6 +36,7 @@
 - Continue expanding on Imaginary Programming
   - Haskell version of 𝑖lambda, which is already in the works.
 - Continue investigating tree-sitter with NLG/natural language code-generation.
+  - Incorporate that into Pen.el and Copilot
 - Continue expanding on LookingGlass, my imaginary web browser
   - Incorporate image and video generation
 - Turn Copilot into a project that is innovative and ahead of the competition
