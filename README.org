@@ -16,6 +16,13 @@
 - Used it in practice for a fortune 500 company to correlate error messages with git commits which broke HIL tests
 *** 2018
 - Built a GitHub code search engine before =grep.app= was a thing, with a web GUI and an emacs IDE
+*** 2019
+- Created a pipeline for CodeLingo in record
+  time (1 month), which took their platform from
+  an academic project to impacting a huge number
+  (2000+) of GitHub organisations with automated bug-fixing.
+*** 2020
+- Developed a deployment pipeline and tooling for self-driving cars. Utilised emacs.
 *** 2021
 - Built an IDE that utilises language models (Pen.el) 7 months before Copilot was a thing.
 - Invented a programming paradigm called imaginary programming, and presented at EmacsConf.
