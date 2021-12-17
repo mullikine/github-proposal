@@ -1,4 +1,13 @@
-<2021-12-17 Fri>
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+#+OPTIONS: toc:nil
+
+#+HUGO_BASE_DIR: /home/shane/dump/home/shane/notes/ws/blog/blog
+#+HUGO_SECTION: ./posts
+
+#+TITLE: Proposal to GitHub
+#+DATE: <2021-12-17>
+#+AUTHOR: Shane Mulligan
+#+KEYWORDS: github
 
 * Proposal to GitHub 
 ** 
