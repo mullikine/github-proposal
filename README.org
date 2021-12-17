@@ -48,6 +48,18 @@
 - Develop peer-to-peer prompt sharing
 
 ** My perspective of the interview
+I am concerned that the Codex model is not
+being correctly utilised by Copilot, because
+the product is trying to derive correct code
+from the LMs, which is an ambitious and
+laudable goal by speed and accuracy shouldn't
+be of greater importance than designing a
+model of human-computer interaction which
+aligns more closely to the natural
+capabilities of the model, which would certainly yield a
+lot of innovative features for Copilot, which
+I have already demonstrated in Pen.el.
+
 I am concerned that the Copilot project will
 fail to innovate enough within the next 6
 months. I'm about 2 years ahead in terms of
